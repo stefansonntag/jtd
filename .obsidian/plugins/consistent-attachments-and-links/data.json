@@ -2,7 +2,7 @@
   "moveAttachmentsWithNote": true,
   "deleteAttachmentsWithNote": true,
   "updateLinks": true,
-  "deleteEmptyFolders": true,
+  "deleteEmptyFolders": false,
   "deleteExistFilesWhenMoveNote": true,
   "changeNoteBacklinksAlt": true,
   "ignoreFolders": [
