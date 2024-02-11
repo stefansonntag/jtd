@@ -1,7 +1,7 @@
 title: Qlik App Documentation
 description: A starter template for a Jeykll site using the Just the Docs theme!
 remote_theme: just-the-docs/just-the-docs
-exclude: [template, helpers]
+exclude: [template, helpers, sketchbook]
 
 plugins:
   - jekyll-remote-theme

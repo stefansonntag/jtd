@@ -7,7 +7,7 @@ This is a *bare-minimum* template to create a Jekyll site that uses the [Just th
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
-Let' s include this here: [chapter 1](chapter%20one/chapter%201.md)
+Let' s include this here: [first page](chapter%20one/first%20page.md)
 
 More specifically, the created site:
 
