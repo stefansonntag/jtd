@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e67dd0ece2e02d9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/First Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/First Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/First Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +183,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e67dd0ece2e02d9e",
+  "active": "3ea3669cf0f9a3ae",
   "lastOpenFiles": [
     "index.md",
     "drafts/First Page.md",
