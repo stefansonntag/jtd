@@ -122,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/First Page.md"
+                "file": "index.md"
               }
             }
           }
@@ -183,12 +185,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "3ea3669cf0f9a3ae",
+  "active": "92a908220ce27135",
   "lastOpenFiles": [
-    "index.md",
-    "drafts/First Page.md",
-    "Untitled.md",
     "drafts",
+    "drafts/some new page.md",
+    "drafts/First Page.md",
+    "index.md",
+    "Untitled.md",
     "_site/Untitled.html",
     "helpers/Just the Docs Configuration.md",
     "Index.md",
@@ -228,8 +231,6 @@
     "development/chapter1/How to ....md",
     "template/New Page.md",
     "production/Page One.md",
-    "chapter1/Untitled.md",
-    "production/index.md",
-    "_site/Untitled.md"
+    "chapter1/Untitled.md"
   ]
 }
