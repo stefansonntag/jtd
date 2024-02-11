@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,28 +189,28 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "3ea3669cf0f9a3ae",
+  "active": "92a908220ce27135",
   "lastOpenFiles": [
-    "helpers/Markdown/Quick Manual.md",
+    "Index.md",
+    "_site/README",
+    "README",
+    "_site/README.txt",
+    "README.txt",
+    "_site/Read before you start.txt",
+    "Read before you start.md",
+    "Read before you start.txt",
+    "_site/Read before you start.html",
+    "_site/Index.html",
     "helpers/Just the Docs Configuration.md",
-    "index.md",
+    "helpers/Markdown/Quick Manual.md",
     "drafts/lds.md",
     "ChapterThree/thirdchapter.md",
     "ChapterThree",
     "chapterTwo",
     "chapterTwo/nextchapter.md",
     "Untitled.md",
-    "Index.md",
-    "_site/drafts/lds.html",
-    "_site/drafts",
-    "_site/chapterOne/firstPage.html",
-    "_site/chapterOne",
-    "drafts",
     "chapterOne/firstPage.md",
-    "chapterOne",
     "_site/README.md",
-    "_site/LICENSE",
-    "_site/docs/index.html",
     "helpers/attachments/unordered-list-rendered.png",
     "helpers/attachments/task-list-rendered-simple.png",
     "helpers/attachments/supported-color-models-rgb-rendered.png",
@@ -225,7 +225,6 @@
     "helpers/About the template.md",
     "docs/index.md",
     "development/index.md",
-    "README.md",
     "test.md",
     "helpers/attachments/Untitled.md",
     "development/chapter1/Untitled.md",
@@ -235,7 +234,6 @@
     "production/Page One.md",
     "chapter1/Untitled.md",
     "production/index.md",
-    "_site/Untitled.md",
-    "production/som enew note.md"
+    "_site/Untitled.md"
   ]
 }

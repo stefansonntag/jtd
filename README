@@ -1,0 +1,6 @@
+How to set up a new site
+
+1) go to Jtd repo, click "Use template". and give the new repo a a name like "doc-appname" or "doc-companyname-appname",
+2) Open GitHub Desktop and add a new local repo by selecting clone and then choose from github.com the repo created in step 1
+3) Create a new branch in GitHub Desktop and give it some meaningful name, e.g. Chapter one. This will copy all the content from the Main branch into you new branch. Make sure you switch to that branch before you start to edit - the main branch should stay clean at all times!
+4) 
