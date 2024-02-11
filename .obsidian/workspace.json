@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31e9a77954a8efb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "drafts/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "drafts/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "drafts/Untitled.md"
               }
             }
           }
@@ -185,12 +197,17 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "92a908220ce27135",
+  "active": "31e9a77954a8efb9",
   "lastOpenFiles": [
+    "drafts/Untitled.md",
+    "_site/chapterone/new page.html",
+    "_site/chapterone",
+    "chapterone/new page.md",
+    "chapterone",
+    "index.md",
     "drafts",
     "drafts/some new page.md",
     "drafts/First Page.md",
-    "index.md",
     "Untitled.md",
     "_site/Untitled.html",
     "helpers/Just the Docs Configuration.md",
@@ -201,9 +218,6 @@
     "README.txt",
     "_site/Read before you start.txt",
     "Read before you start.md",
-    "Read before you start.txt",
-    "_site/Read before you start.html",
-    "_site/Index.html",
     "helpers/Markdown/Quick Manual.md",
     "drafts/lds.md",
     "ChapterThree/thirdchapter.md",
@@ -230,7 +244,6 @@
     "development/Untitled.md",
     "development/chapter1/How to ....md",
     "template/New Page.md",
-    "production/Page One.md",
-    "chapter1/Untitled.md"
+    "production/Page One.md"
   ]
 }
