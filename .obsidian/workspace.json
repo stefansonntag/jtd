@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "e6cdf08bb8c26f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "83c1ab35e3b93f78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a509472855b786d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e05c4464b58876e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2da8271e5e23fe21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58284b86fbfa4b87",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aeaba0962b9e841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ea3669cf0f9a3ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a626873297d01aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aea4dd799983b0b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83413849e770527d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af48ac679fb9ba9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aefc036607c881c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9e000c290c52046",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b354da022df01ffa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b7914efb16caf26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "templater-obsidian:Templater": true
+    }
+  },
+  "active": "2da8271e5e23fe21",
+  "lastOpenFiles": [
+    "_site/README.md",
+    "_site/LICENSE",
+    "_site/docs/index.html",
+    "_site/docs",
+    "_site/development/index.html",
+    "_site/development",
+    "helpers/attachments/unordered-list-rendered.png",
+    "helpers/attachments/task-list-rendered-simple.png",
+    "helpers/attachments/supported-color-models-hsl-rendered.png",
+    "helpers/attachments/supported-color-models-rgb-rendered.png",
+    "helpers/attachments/supported-color-models-rendered.png",
+    "helpers/attachments/supported-color-models-hex-rendered.png",
+    "helpers/attachments/readme-links.png",
+    "helpers/attachments/quoted-text-rendered.png",
+    "helpers/attachments/ordered-list-rendered.png",
+    "helpers/attachments/nested-list-example-3.png",
+    "helpers/attachments",
+    "helpers/Markdown.md",
+    "helpers/About the template.md",
+    "docs/index.md",
+    "docs/_config.yml",
+    "docs",
+    "development/index.md",
+    "development",
+    "README.md",
+    "LICENSE",
+    "helpers/Markdown/Quick Manual.md",
+    "drafts/lds.md",
+    "chapterOne/firstPage.md",
+    "index.md",
+    "test.md",
+    "Index.md",
+    "helpers/attachments/Untitled.md",
+    "development/chapter1/Untitled.md",
+    "development/Untitled.md",
+    "development/chapter1/How to ....md",
+    "template/New Page.md",
+    "production/Page One.md",
+    "chapter1/Untitled.md",
+    "production/index.md",
+    "_site/Untitled.md",
+    "production/som enew note.md",
+    "_site/som enew note.md",
+    "_site/chapter1/som enew note.md",
+    "_site/chapter1 1/som enew note.md"
+  ]
+}
