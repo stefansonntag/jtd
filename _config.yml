@@ -8,7 +8,7 @@ plugins:
   - jekyll-remote-theme
 
 url: https://stefansonntag.com
-# source: docs
+
 
 disable_disk_cache: true
 
