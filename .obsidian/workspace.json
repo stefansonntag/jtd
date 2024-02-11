@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83c1ab35e3b93f78",
+        "id": "7d5d0672c675c54b",
         "type": "tabs",
         "children": [
           {
-            "id": "4a509472855b786d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e05c4464b58876e7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2da8271e5e23fe21",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2ba2bc1db2df8b8",
+            "id": "f2985616fb77b5c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "helpers/Markdown/Quick Manual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92a908220ce27135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee1ac5fc76440eb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/Draft.md",
+                "file": "drafts/ChangeMe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/Draft.md",
+                "file": "drafts/ChangeMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/Draft.md",
+                "file": "drafts/ChangeMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/Draft.md"
+                "file": "drafts/ChangeMe.md"
               }
             }
           }
@@ -197,15 +148,17 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "ee1ac5fc76440eb3",
+  "active": "f2985616fb77b5c5",
   "lastOpenFiles": [
-    "index.md",
+    "drafts/ChangeMe.md",
+    "drafts",
     "drafts/Draft.md",
+    "helpers/Markdown/Quick Manual.md",
+    "index.md",
     "_site/chapterone/new page.html",
     "_site/chapterone",
     "chapterone/new page.md",
     "chapterone",
-    "drafts",
     "drafts/some new page.md",
     "drafts/First Page.md",
     "Untitled.md",
@@ -218,7 +171,6 @@
     "README.txt",
     "_site/Read before you start.txt",
     "Read before you start.md",
-    "helpers/Markdown/Quick Manual.md",
     "drafts/lds.md",
     "ChapterThree/thirdchapter.md",
     "chapterTwo/nextchapter.md",
@@ -243,7 +195,6 @@
     "development/chapter1/Untitled.md",
     "development/Untitled.md",
     "development/chapter1/How to ....md",
-    "template/New Page.md",
-    "production/Page One.md"
+    "template/New Page.md"
   ]
 }
