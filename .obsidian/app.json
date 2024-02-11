@@ -4,6 +4,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "sketchbook",
+  "newFileFolderPath": "drafts",
   "newLinkFormat": "relative"
 }
