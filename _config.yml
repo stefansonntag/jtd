@@ -8,8 +8,6 @@ plugins:
 
 url: https://stefansonntag.com
 
-
-
 disable_disk_cache: true
 
 # Define Jekyll collections
