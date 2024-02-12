@@ -3,9 +3,10 @@ This repo serves a template to create a new Github pages website for documentati
 ### Set up a new site
 
 1) In GitHub click "Use template". and give the new repo a a name like "doc-appname" or "doc-companyname-appname".
-2) Open GitHub Desktop and add a new local repo by selecting "clone" and then choose from github.com the repo created in step 1. Obviously that could also be done somehow in VSCode or by using the Git CLI "clone" command, but I found it the easiest to use GitHub Desktop 
-3) Create a new branch in GitHub Desktop (again: could be done also in any other tool) and call it ""development". This will copy all the content from the "main" branch into your new branch. Make sure you switch to that new branch before you start to edit, then create a first commit, call it Version 0 and publish that new development branch to GitHub.
-4) Open Obsidian and use the open vault command to open the folder in which your new repo from step one resides. Confirm that you trust the author of the vault so that the plugins get activated. 
+2) Go to settings of the new repo under "pages" and ensure that you set the branch from which to publish to "main" and folder "root" 
+3) Open GitHub Desktop and add a new local repo by selecting "clone" and then choose from github.com the repo created in step 1. Obviously that could also be done somehow in VSCode or by using the Git CLI "clone" command, but I found it the easiest to use GitHub Desktop 
+4) Create a new branch in GitHub Desktop (again: could be done also in any other tool) and call it ""development". This will copy all the content from the "main" branch into your new branch. Make sure you switch to that new branch before you start to edit, then create a first commit, call it Version 0 and publish that new development branch to GitHub.
+5) Open Obsidian and use the open vault command to open the folder in which your new repo from step one resides. Confirm that you trust the author of the vault so that the plugins get activated. 
 ### Write content
 1) Create a new note and start writing. A frontmatter property "layout: home" needs to be in the note and a # header line or else local jekyll or github pages will not show the note!
 2) New notes will be created automatically in the "Drafts" folder to keep the vault clean. There is already a note called "My 1st Page" in that folder to get started. Move it to some other place to see it in the live server because the drafts folder is excluded from publication by Jekyll / GitHub pages!
