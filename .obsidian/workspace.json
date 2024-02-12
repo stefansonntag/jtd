@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "drafts/Old Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "drafts/Old Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a7b996f22b487ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,8 +185,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "602127f24245bf93",
+  "active": "3ea3669cf0f9a3ae",
   "lastOpenFiles": [
+    "_site/README.html",
+    "drafts/Old Readme.md",
+    "README.md",
+    "_site/README 1.html",
     "_site/assets/css/just-the-docs-dark.css.map",
     "assets",
     "_sass/vendor/normalize.scss/normalize.scss",
@@ -185,8 +201,6 @@
     "_sass/vendor/OneDarkJekyll/LICENSE",
     "_sass/support/mixins/mixins.scss",
     "_sass/support/mixins/_typography.scss",
-    "_sass/support/mixins/_layout.scss",
-    "_sass/support/mixins/_buttons.scss",
     "_ChapterTwo/My 3rd Page.md",
     "_ChapterOne/My 1st Page.md",
     "helpers/Just the Docs Configuration.md",
@@ -196,7 +210,6 @@
     "_site/README.md",
     "index.md",
     "_ChapterOne/My 2nd Page.md",
-    "README.md",
     "template/New Page.md",
     "drafts/Draft.md",
     "helpers/Markdown/Quick Manual.md",
@@ -219,7 +232,6 @@
     "helpers/attachments/readme-links.png",
     "helpers/attachments/supported-color-models-hex-rendered.png",
     "helpers/Markdown.md",
-    "helpers/About the template.md",
-    "docs/index.md"
+    "helpers/About the template.md"
   ]
 }
