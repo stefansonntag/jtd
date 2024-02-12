@@ -175,6 +175,7 @@
   },
   "active": "602127f24245bf93",
   "lastOpenFiles": [
+    "Gemfile.lock",
     "_site/ChapterTwo/My 4th Page.html",
     "_site/ChapterTwo/My 3rd Page.html",
     "_site/ChapterTwo",
@@ -182,7 +183,6 @@
     "_site/ChapterOne/My 1st Page.html",
     "_site/ChapterOne",
     "_ChapterOne/My 1st Page.md",
-    "Gemfile.lock",
     "helpers/Just the Docs Configuration.md",
     "_ChapterTwo/My 4th Page.md",
     "_site/assets/images/small-image.jpg",
