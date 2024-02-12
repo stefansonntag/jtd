@@ -1,13 +1,3 @@
----
-title: 
-layout: 
-aliases: 
-parent: 
-has_children: 
-nav_order: 
-nav_exclude: 
-has_toc:
----
 ### Setting up a New Website
 
 **Step 1: Create a New Site**

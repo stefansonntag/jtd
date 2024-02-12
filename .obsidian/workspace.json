@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden File.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hidden File.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hidden File.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden File.md"
+                "file": "README.md"
               }
             }
           }
@@ -197,15 +197,16 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "3ea3669cf0f9a3ae",
+  "active": "e48bb6f527cdd9f6",
   "lastOpenFiles": [
+    "_site/README.md",
+    "Hidden File.md",
     "_site/Hidden File.html",
     "README.md",
     "index.md",
     "_site/Other Files/Hidden File.html",
     "_site/Other Files",
     "Other Files",
-    "Hidden File.md",
     "_site/404.html",
     "helpers/Just the Docs Configuration.md",
     "_site/README.html",
@@ -220,7 +221,6 @@
     "_ChapterTwo/My 4th Page.md",
     "_site/assets/images/small-image.jpg",
     "_site/assets/images/large-image.jpg",
-    "_site/README.md",
     "_ChapterOne/My 2nd Page.md",
     "template/New Page.md",
     "drafts/Draft.md",
