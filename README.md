@@ -1,12 +1,12 @@
 ---
-title: Page Title
-layout: home
+title: 
+layout: 
 aliases: 
 parent: 
-has_children: "false"
+has_children: 
 nav_order: 
-nav_exclude: "false"
-has_toc: "false"
+nav_exclude: 
+has_toc:
 ---
 ### Setting up a New Website
 

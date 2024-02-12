@@ -5,6 +5,7 @@
     "template",
     "_includes",
     "_layouts",
-    "_sass"
+    "_sass",
+    "assets"
   ]
 }

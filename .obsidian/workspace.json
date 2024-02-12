@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e48bb6f527cdd9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Hidden File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Hidden File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Hidden File.md"
               }
             }
           }
@@ -187,28 +199,28 @@
   },
   "active": "3ea3669cf0f9a3ae",
   "lastOpenFiles": [
+    "_site/Hidden File.html",
+    "README.md",
+    "index.md",
+    "_site/Other Files/Hidden File.html",
+    "_site/Other Files",
+    "Other Files",
+    "Hidden File.md",
+    "_site/404.html",
+    "helpers/Just the Docs Configuration.md",
     "_site/README.html",
     "drafts/Old Readme.md",
-    "README.md",
     "_site/README 1.html",
     "_site/assets/css/just-the-docs-dark.css.map",
     "assets",
     "_sass/vendor/normalize.scss/normalize.scss",
     "_sass/vendor/normalize.scss/README.md",
-    "_sass/vendor/OneLightJekyll/syntax.scss",
-    "_sass/vendor/OneLightJekyll/LICENSE",
-    "_sass/vendor/OneDarkJekyll/syntax.scss",
-    "_sass/vendor/OneDarkJekyll/LICENSE",
-    "_sass/support/mixins/mixins.scss",
-    "_sass/support/mixins/_typography.scss",
     "_ChapterTwo/My 3rd Page.md",
     "_ChapterOne/My 1st Page.md",
-    "helpers/Just the Docs Configuration.md",
     "_ChapterTwo/My 4th Page.md",
     "_site/assets/images/small-image.jpg",
     "_site/assets/images/large-image.jpg",
     "_site/README.md",
-    "index.md",
     "_ChapterOne/My 2nd Page.md",
     "template/New Page.md",
     "drafts/Draft.md",
@@ -231,7 +243,6 @@
     "helpers/attachments/supported-color-models-hsl-rendered.png",
     "helpers/attachments/readme-links.png",
     "helpers/attachments/supported-color-models-hex-rendered.png",
-    "helpers/Markdown.md",
-    "helpers/About the template.md"
+    "helpers/Markdown.md"
   ]
 }
