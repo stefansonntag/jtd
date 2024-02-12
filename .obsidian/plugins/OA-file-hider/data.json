@@ -2,6 +2,9 @@
   "hidden": true,
   "hiddenList": [
     "_site",
-    "template"
+    "template",
+    "_includes",
+    "_layouts",
+    "_sass"
   ]
 }
