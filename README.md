@@ -8,13 +8,16 @@ This repo serves a template to create a new Github pages website for documentati
 4) Open Obsidian and use the open vault command to open the folder in which your new repo from step one resides. Confirm that you trust the author of the vault so that the plugins get activated. 
 5) Create a new note and start writing. A frontmatter property "layout: home" needs to be in the note and a # header line or else local jekyll or github pages will not show the note!
 6) New notes will be created automatically in the "Drafts" folder to keep the vault clean. There is already a note called "My 1st Page" in that folder to get started. Move it to some other place to see it in the live server because the drafts folder is excluded from publication by Jekyll / GitHub pages!
+7) To put a note under Chapte 1 or two, move it into the respective folders
+8) To create a new collection (=Chapter 1), change the config.yml file with VSCode and create a folder in the vault that is called like the name of the collection and starts with an underscore.
+9) Any change to config.yml will require to restart the jekyll server to become visible (e.g. renaming collections or adding new ones)
 ### Vault configuration
 
 The following Obsidian plugins are installed in the vault:
    1) Clear Unused Images (removes screenshots etc which aren'r referenced anymore)
    2) Shell commands. not configured for anything specific set, but just in case you want to be able to execute a command line program (e.g. git, jekyll etc.) in the vaults directory
    3) Consistent Attachment and Links: help to clean the vault clean. Specifically it will create a folder "attachments" in the same directory where a screenshot is pasted into an article and move it into that folder. If you move the article into any other directory the plugin will do the same in the new directory and update the link in the doc. Comes very handy!
-   4) File hider: Configures to hide the "_site" folder in the vault that Jekyll creates when you run "jekyll serve" 
+   4) File hider: Configures to hide the "_site" folder in the vault that Jekyll creates when you run "jekyll serve"
    5) Git. All kinds of Git commands are available via the Obsidian command palette (search for git). Most handy comes a) creation of a new branch (switches to that new branch immediately) and b) commit to current branch
    6) Commander: allows to fix command palette commands to toolbars, menus etc so that they can be executed without  the need to topen the palette with "CMD p" and then search
    7) Templater: to configure a template which gets created when creating a new note. This is currently the simplest one which adds a property "layout: home" to the front matter

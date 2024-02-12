@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "_ChapterOne/My 1st Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2074e82e0536a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "602127f24245bf93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "helpers/Just the Docs Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "helpers/Just the Docs Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "helpers/Just the Docs Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "helpers/Just the Docs Configuration.md"
               }
             }
           }
@@ -148,35 +173,41 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f2985616fb77b5c5",
+  "active": "602127f24245bf93",
   "lastOpenFiles": [
-    "drafts/My 1st Page.md",
+    "_ChapterTwo/My 4th Page.md",
+    "_site/assets/images/small-image.jpg",
+    "_site/assets/images/large-image.jpg",
+    "_site/assets/images",
+    "_site/assets/js/vendor/lunr.min.js",
+    "_site/assets/js/vendor",
+    "_site/assets/js/search-data.json",
+    "_site/assets/js/just-the-docs.js",
+    "_site/assets/css/just-the-docs-light.css.map",
+    "_site/assets/css/just-the-docs-light.css",
+    "_site/assets/css/just-the-docs-head-nav.css",
+    "_site/assets/css/just-the-docs-default.css.map",
+    "_site/assets/css/just-the-docs-default.css",
+    "_site/README.md",
+    "_ChapterTwo/My 3rd Page.md",
+    "index.md",
+    "_ChapterOne/My 1st Page.md",
+    "_ChapterOne/My 2nd Page.md",
     "README.md",
-    "drafts",
+    "template/New Page.md",
+    "helpers/Just the Docs Configuration.md",
     "drafts/Draft.md",
     "helpers/Markdown/Quick Manual.md",
-    "index.md",
-    "_site/chapterone/new page.html",
-    "_site/chapterone",
     "chapterone/new page.md",
-    "chapterone",
     "drafts/some new page.md",
     "drafts/First Page.md",
     "Untitled.md",
-    "_site/Untitled.html",
-    "helpers/Just the Docs Configuration.md",
     "Index.md",
-    "_site/README",
-    "README",
-    "_site/README.txt",
-    "README.txt",
-    "_site/Read before you start.txt",
     "Read before you start.md",
     "drafts/lds.md",
     "ChapterThree/thirdchapter.md",
     "chapterTwo/nextchapter.md",
     "chapterOne/firstPage.md",
-    "_site/README.md",
     "helpers/attachments/unordered-list-rendered.png",
     "helpers/attachments/task-list-rendered-simple.png",
     "helpers/attachments/supported-color-models-rgb-rendered.png",
@@ -185,16 +216,9 @@
     "helpers/attachments/supported-color-models-hsl-rendered.png",
     "helpers/attachments/readme-links.png",
     "helpers/attachments/supported-color-models-hex-rendered.png",
-    "helpers/attachments/quoted-text-rendered.png",
-    "helpers/attachments/ordered-list-rendered.png",
     "helpers/Markdown.md",
     "helpers/About the template.md",
     "docs/index.md",
-    "development/index.md",
-    "test.md",
-    "helpers/attachments/Untitled.md",
-    "development/chapter1/Untitled.md",
-    "development/Untitled.md",
-    "development/chapter1/How to ....md"
+    "development/index.md"
   ]
 }
