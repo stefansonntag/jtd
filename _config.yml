@@ -13,35 +13,3 @@ url: https://stefansonntag.com
 
 
 disable_disk_cache: true
-
-# Define Jekyll collections
-collections:
-  # Define a collection named "Chapter One", its documents reside in the "_ChapterOne" directory
-  ChapterOne:
-    # permalink: "/:collection/:path/"
-    # output: false
-  ChapterTwo:
-    # permalink: "/:collection/:path/"
-    # output: true
-
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "ChapterOne" collection
-    ChapterOne:
-      # Give the collection a name as it shows in the side bar
-      name: First Chapter
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      # nav_exclude: false
-      # Fold the collection in the navigation
-      # Supports true or false (default)
-      # nav_fold: false  # note: this option is new in v0.4
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      # search_exclude: true
-    ChapterTwo:
-      name: Second Chapter
-      # nav_exclude: false
-      # nav_fold: false
-      # search_exclude: false
