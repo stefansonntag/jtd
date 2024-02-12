@@ -7,5 +7,7 @@
   "templater-obsidian",
   "obsidian-git",
   "editing-toolbar",
-  "consistent-attachments-and-links"
+  "consistent-attachments-and-links",
+  "image-converter",
+  "insert-unsplash-image"
 ]
