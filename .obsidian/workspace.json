@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "helpers/Just the Docs Configuration.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "helpers/Just the Docs Configuration.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "helpers/Just the Docs Configuration.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "helpers/Just the Docs Configuration.md"
+                "file": "README.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "602127f24245bf93",
   "lastOpenFiles": [
+    "helpers/Just the Docs Configuration.md",
     "_ChapterTwo/My 4th Page.md",
     "_site/assets/images/small-image.jpg",
     "_site/assets/images/large-image.jpg",
@@ -195,7 +196,6 @@
     "_ChapterOne/My 2nd Page.md",
     "README.md",
     "template/New Page.md",
-    "helpers/Just the Docs Configuration.md",
     "drafts/Draft.md",
     "helpers/Markdown/Quick Manual.md",
     "chapterone/new page.md",

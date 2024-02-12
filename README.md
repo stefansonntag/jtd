@@ -8,9 +8,8 @@ This repo serves a template to create a new Github pages website for documentati
 4) Open Obsidian and use the open vault command to open the folder in which your new repo from step one resides. Confirm that you trust the author of the vault so that the plugins get activated. 
 5) Create a new note and start writing. A frontmatter property "layout: home" needs to be in the note and a # header line or else local jekyll or github pages will not show the note!
 6) New notes will be created automatically in the "Drafts" folder to keep the vault clean. There is already a note called "My 1st Page" in that folder to get started. Move it to some other place to see it in the live server because the drafts folder is excluded from publication by Jekyll / GitHub pages!
-7) To put a note under Chapte 1 or two, move it into the respective folders
-8) To create a new collection (=Chapter 1), change the config.yml file with VSCode and create a folder in the vault that is called like the name of the collection and starts with an underscore.
-9) Any change to config.yml will require to restart the jekyll server to become visible (e.g. renaming collections or adding new ones)
+7) To put a note under a collection (e.g. First Capter) , move it into the name of the  folder that is specified in config.yml as the collection folder (e.g. _ChapterOne)
+8) To create a new collection (e.g. Chapter Three), change the config.yml file under "collections:". Any change to config.yml will require to restart the jekyll server to become visible (e.g. renaming collections or adding new ones)
 ### Vault configuration
 
 The following Obsidian plugins are installed in the vault:
