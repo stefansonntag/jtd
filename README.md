@@ -9,9 +9,10 @@ This repo serves a template to create a new Github pages website for documentati
 ### Write content
 1) Create a new note and start writing. A frontmatter property "layout: home" needs to be in the note and a # header line or else local jekyll or github pages will not show the note!
 2) New notes will be created automatically in the "Drafts" folder to keep the vault clean. There is already a note called "My 1st Page" in that folder to get started. Move it to some other place to see it in the live server because the drafts folder is excluded from publication by Jekyll / GitHub pages!
-3) To put a note under a collection (e.g. First Capter) , move it into the name of the  folder that is specified in config.yml as the collection folder (e.g. _ChapterOne)
-4) To create a new collection (e.g. Chapter Three), change the config.yml file under "collections:". Any change to config.yml will require to restart the jekyll server to become visible (e.g. renaming collections or adding new ones)
-5) **<font color="#ff0000">**Do not forget to commit intermittently to save versions of your doc to the development branch!**</font>
+3) To put a note under a collection (e.g. First Capter) , move it into the name of the  folder that is specified in config.yml as the collection folder (e.g. _ChapterOne). 
+4) IMPORTANT: Collection folder need to start with an underscore and in config.yml there need to be an attribute "output:true"
+5) To create a new collection (e.g. Chapter Three), change the config.yml file under "collections:". Any change to config.yml will require to restart the jekyll server to become visible (e.g. renaming collections or adding new ones)
+6) **<font color="#ff0000">**Do not forget to commit intermittently to save versions of your doc to the development branch!**</font>
 
 ### Publish
 Merge the development branch into the main branch, commit (use a version name as commit message, e.g. "Version 1", synch it to GitHub and wait 1-2 minutes until the website comes online. You can see it subsequently at https://stefansonntag.com/changeforyournewreponame. Also you can go to the new repo in GitHub and click on actions and see how the GitHub build process runs

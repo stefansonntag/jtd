@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ChapterTwo/My 3rd Page.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ChapterTwo/My 3rd Page.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ChapterTwo/My 3rd Page.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ChapterTwo/My 3rd Page.md"
+                "file": "README.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "602127f24245bf93",
   "lastOpenFiles": [
+    "_ChapterTwo/My 3rd Page.md",
     "Gemfile.lock",
     "_site/ChapterTwo/My 4th Page.html",
     "_site/ChapterTwo/My 3rd Page.html",
@@ -191,7 +192,6 @@
     "_site/assets/js/vendor/lunr.min.js",
     "_site/assets/js/vendor",
     "_site/README.md",
-    "_ChapterTwo/My 3rd Page.md",
     "index.md",
     "_ChapterOne/My 2nd Page.md",
     "README.md",
