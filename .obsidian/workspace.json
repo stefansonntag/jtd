@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden File.md",
+                "file": "drafts/Hidden File.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hidden File.md",
+                "file": "drafts/Hidden File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hidden File.md",
+                "file": "drafts/Hidden File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden File.md"
+                "file": "drafts/Hidden File.md"
               }
             }
           }
@@ -199,10 +199,10 @@
   },
   "active": "e48bb6f527cdd9f6",
   "lastOpenFiles": [
-    "index.md",
-    "Hidden File.md",
-    "_site/Hidden File.html",
     "README.md",
+    "drafts/Hidden File.md",
+    "index.md",
+    "_site/Hidden File.html",
     "_site/README.md",
     "_site/Other Files/Hidden File.html",
     "_site/Other Files",

@@ -4,5 +4,5 @@ layout: home
 ---
 ### Help Center
 
-[Hidden File](Hidden%20File.md)
+[Hidden File](drafts/Hidden%20File.md)
 This is where your learning journey begins...
