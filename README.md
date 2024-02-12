@@ -1,15 +1,28 @@
 This repo serves a template to create a new Github pages website for documentations, specifically those that would to be called from within a Qlik app to show inline help.
 
-### How to set up a new site
+### Set up a new site
 
 1) In GitHub click "Use template". and give the new repo a a name like "doc-appname" or "doc-companyname-appname".
 2) Open GitHub Desktop and add a new local repo by selecting "clone" and then choose from github.com the repo created in step 1. Obviously that could also be done somehow in VSCode or by using the Git CLI "clone" command, but I found it the easiest to use GitHub Desktop 
 3) Create a new branch in GitHub Desktop (again: could be done also in any other tool) and call it ""development". This will copy all the content from the "main" branch into your new branch. Make sure you switch to that new branch before you start to edit, then create a first commit, call it Version 0 and publish that new development branch to GitHub.
 4) Open Obsidian and use the open vault command to open the folder in which your new repo from step one resides. Confirm that you trust the author of the vault so that the plugins get activated. 
-5) Create a new note and start writing. A frontmatter property "layout: home" needs to be in the note and a # header line or else local jekyll or github pages will not show the note!
-6) New notes will be created automatically in the "Drafts" folder to keep the vault clean. There is already a note called "My 1st Page" in that folder to get started. Move it to some other place to see it in the live server because the drafts folder is excluded from publication by Jekyll / GitHub pages!
-7) To put a note under a collection (e.g. First Capter) , move it into the name of the  folder that is specified in config.yml as the collection folder (e.g. _ChapterOne)
-8) To create a new collection (e.g. Chapter Three), change the config.yml file under "collections:". Any change to config.yml will require to restart the jekyll server to become visible (e.g. renaming collections or adding new ones)
+### Write content
+1) Create a new note and start writing. A frontmatter property "layout: home" needs to be in the note and a # header line or else local jekyll or github pages will not show the note!
+2) New notes will be created automatically in the "Drafts" folder to keep the vault clean. There is already a note called "My 1st Page" in that folder to get started. Move it to some other place to see it in the live server because the drafts folder is excluded from publication by Jekyll / GitHub pages!
+3) To put a note under a collection (e.g. First Capter) , move it into the name of the  folder that is specified in config.yml as the collection folder (e.g. _ChapterOne)
+4) To create a new collection (e.g. Chapter Three), change the config.yml file under "collections:". Any change to config.yml will require to restart the jekyll server to become visible (e.g. renaming collections or adding new ones)
+5) **<font color="#ff0000">**Do not forget to commit intermittently to save versions of your doc to the development branch!**</font>
+
+### Publish
+Merge the development branch into the main branch, commit (use a version name as commit message, e.g. "Version 1", synch it to GitHub and wait 1-2 minutes until the website comes online. You can see it subsequently at https://stefansonntag.com/changeforyournewreponame. Also you can go to the new repo in GitHub and click on actions and see how the GitHub build process runs
+   
+### Other
+The helpers folder contains two notes
+   1) a markdown cheatsheet
+   2) a link to the configuration instruction for the template "just the docs" which is used to generate the web site. Read it to understand which other tempaltes for template you could create, e.g. parent child templates, note with table of contents etc
+   
+When you run "jekyll serve watch" (I use a terminal window in VSCode ) in the vault root you can point a browser to "localhost:4000" and see how the website will look like once synched with GitHub. Running the command will keep a jekyll server up at port 4000 which can obviously be done only once. So if the command fails the most likely reason is that the port is already blocked by another instance of a jekyll server. To mitigate do a "ps" and kill -9 that server and rerun 'jekyll serve'
+
 ### Vault configuration
 
 The following Obsidian plugins are installed in the vault:
@@ -21,15 +34,5 @@ The following Obsidian plugins are installed in the vault:
    6) Commander: allows to fix command palette commands to toolbars, menus etc so that they can be executed without  the need to topen the palette with "CMD p" and then search
    7) Templater: to configure a template which gets created when creating a new note. This is currently the simplest one which adds a property "layout: home" to the front matter
    8) Editing Toolbar: apply markdown syntax easily by using icons in the note editor
-### Other
-The helpers folder contains two notes
-   1) a markdown cheatsheet
-   2) a link to the configuration instruction for the template "just the docs" which is used to generate the web site. Read it to understand which other tempaltes for template you could create, e.g. parent child templates, note with table of contents etc
-   
-When you run "jekyll serve watch" (I use a terminal window in VSCode ) in the vault root you can point a browser to "localhost:4000" and see how the website will look like once synched with GitHub. Running the command will keep a jekyll server up at port 4000 which can obviously be done only once. So if the command fails the most likely reason is that the port is already blocked by another instance of a jekyll server. To mitigate do a "ps" and kill -9 that server and rerun 'jekyll serve'
 
-**<font color="#ff0000">**Do not forget to commit intermittently to save versions of your doc to the development branch!**</font>**
 
-### Publish
-Merge the development branch into the main branch, commit (use a version name as commit message, e.g. "Version 1", synch it to GitHub and wait 1-2 minutes until the website comes online. You can see it subsequently at https://stefansonntag.com/changeforyournewreponame. Also you can go to the new repo in GitHub and click on actions and see how the GitHub build process runs
-   
