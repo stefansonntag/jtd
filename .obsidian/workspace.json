@@ -173,8 +173,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "3ea3669cf0f9a3ae",
+  "active": "602127f24245bf93",
   "lastOpenFiles": [
+    "_site/assets/css/just-the-docs-dark.css.map",
     "assets",
     "_sass/vendor/normalize.scss/normalize.scss",
     "_sass/vendor/normalize.scss/README.md",
@@ -186,7 +187,6 @@
     "_sass/support/mixins/_typography.scss",
     "_sass/support/mixins/_layout.scss",
     "_sass/support/mixins/_buttons.scss",
-    "_sass/vendor/normalize.scss",
     "_ChapterTwo/My 3rd Page.md",
     "_ChapterOne/My 1st Page.md",
     "helpers/Just the Docs Configuration.md",

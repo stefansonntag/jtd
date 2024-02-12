@@ -96,11 +96,11 @@ $border-color: $grey-lt-100 !default;
 
 $gutter-spacing: $sp-6 !default;
 $gutter-spacing-sm: $sp-4 !default;
-$nav-width: 16.5rem !default;
+$nav-width: 16rem !default;
 $nav-width-md: 15.5rem !default;
 $nav-list-item-height: $sp-6 !default;
 $nav-list-item-height-sm: $sp-8 !default;
-$nav-list-expander-right: true;
+$nav-list-expander-right: false;
 $content-width: 50rem !default;
 $header-height: 3.75rem !default;
 $search-results-width: $content-width - $nav-width !default;
