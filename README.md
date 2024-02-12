@@ -1,4 +1,4 @@
-This repo serves a template to create a new Github pages website for documentations, specifically those that would to be called from within a Qlik app to show inline help.
+This repo serves a template to create a new Github pages website for documentations, specifically those that would to be called from within a Qlik app to show inline help. It uses the just-the-docs template/just-the-docs template remote template.  
 
 ### Set up a new site
 
