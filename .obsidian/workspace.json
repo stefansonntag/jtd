@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Hidden File.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Hidden File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Hidden File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Hidden File.md"
               }
             }
           }
@@ -199,11 +199,11 @@
   },
   "active": "e48bb6f527cdd9f6",
   "lastOpenFiles": [
-    "_site/README.md",
+    "index.md",
     "Hidden File.md",
     "_site/Hidden File.html",
     "README.md",
-    "index.md",
+    "_site/README.md",
     "_site/Other Files/Hidden File.html",
     "_site/Other Files",
     "Other Files",
