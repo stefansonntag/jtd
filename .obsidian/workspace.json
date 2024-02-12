@@ -173,8 +173,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "602127f24245bf93",
+  "active": "3ea3669cf0f9a3ae",
   "lastOpenFiles": [
+    "assets",
     "_sass/vendor/normalize.scss/normalize.scss",
     "_sass/vendor/normalize.scss/README.md",
     "_sass/vendor/OneLightJekyll/syntax.scss",
@@ -186,7 +187,6 @@
     "_sass/support/mixins/_layout.scss",
     "_sass/support/mixins/_buttons.scss",
     "_sass/vendor/normalize.scss",
-    "_sass/vendor/OneLightJekyll",
     "_ChapterTwo/My 3rd Page.md",
     "_ChapterOne/My 1st Page.md",
     "helpers/Just the Docs Configuration.md",
