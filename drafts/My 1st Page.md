@@ -1,5 +1,5 @@
 ---
-title: Page Title
+title: ChangeMe
 layout: home
 aliases:
 ---

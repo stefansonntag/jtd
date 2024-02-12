@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/ChangeMe.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/ChangeMe.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/ChangeMe.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/ChangeMe.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,7 +150,8 @@
   },
   "active": "f2985616fb77b5c5",
   "lastOpenFiles": [
-    "drafts/ChangeMe.md",
+    "drafts/My 1st Page.md",
+    "README.md",
     "drafts",
     "drafts/Draft.md",
     "helpers/Markdown/Quick Manual.md",
@@ -194,7 +195,6 @@
     "helpers/attachments/Untitled.md",
     "development/chapter1/Untitled.md",
     "development/Untitled.md",
-    "development/chapter1/How to ....md",
-    "template/New Page.md"
+    "development/chapter1/How to ....md"
   ]
 }
